@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaboratComputer Science Engineering graduate with hands-on experience developing Java and Spring Boot applications. Built RESTful backend services, database-driven web applications and secure cloud-based systems using Java, Spring Data JPA, Hibernate, MySQL and ReactJS. Strong foundation in Object-Oriented Programming, Data Structures, SQL and software engineering principles. Seeking an entry-level Software Engineer role to contribute to scalable, maintainable and high-quality software solutions.e on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭Computer Science Engineering graduate with hands-on experience developing Java and Spring Boot applications. Built RESTful backend services, database-driven web applications and secure cloud-based systems using Java, Spring Data JPA, Hibernate, MySQL and ReactJS. Strong foundation in Object-Oriented Programming, Data Structures, SQL and software engineering principles. Seeking an entry-level Software Engineer role to contribute to scalable, maintainable and high-quality software solutions.e on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
